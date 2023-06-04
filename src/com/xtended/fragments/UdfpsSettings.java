@@ -178,4 +178,3 @@ public class UdfpsSettings extends SettingsPreferenceFragment implements
         return MetricsProto.MetricsEvent.XTENSIONS;
     }
 }
-
