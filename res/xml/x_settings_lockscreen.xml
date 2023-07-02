@@ -55,8 +55,7 @@
             settings:min="80"
             settings:interval="1"
             android:defaultValue="200"
-            android:persistent="true"
-            settings:units="dp" />
+            android:persistent="true" />
 
     </PreferenceCategory>
 
